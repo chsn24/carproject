@@ -1,12 +1,12 @@
 let listaCarros = [
     {
         nome: "Bronco Sport",
-        img: "img/broncosport.avif",
+        img: "img/hero-car-1.avif",
         descrição: "Ford Bronco Sport, um SUV imbatível. Performance e capacidade off-road excepcionais, tecnologia, conectividade e segurança para superar todo tipo de desafio: dentro e fora de estrada."
     },
     {
         nome: "Maverick",
-        img: "img/maverick.avif",
+        img: "img/hyundai.avif",
         descrição: "Esportiva, versátil, conectada e com a robustez da família Raça Forte."
     },
     {
